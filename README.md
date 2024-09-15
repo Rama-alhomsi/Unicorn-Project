@@ -31,3 +31,7 @@
 - Leverage data analytics to monitor performance trends and make informed decisions.
 
 The analysis combines data from SQL, Google Sheets, and Tableau to provide actionable insights aimed at enhancing profitability and operational efficiency.
+
+[Tableau](https://public.tableau.com/views/UnicornPerformance_17264366963990/UnicornPerformaceMatrix?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[presentation](https://docs.google.com/presentation/d/1JRWkx2KTinWwg7PV-V23WCsFHsymyf3dRrKuYLhYHjU/edit?usp=sharing) 
+Video Presentation
