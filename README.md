@@ -40,6 +40,6 @@ The analysis combines data from SQL, Google Sheets, and Tableau to provide actio
   
 ### Co-authors:
 * Rama alhomsi 
-* www.linkedin.com/in/leelareddy
+* Leela Yathapu
 * Tsai-Shiou Hsieh
 * Akilan Sivanandham
