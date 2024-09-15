@@ -32,6 +32,14 @@
 
 The analysis combines data from SQL, Google Sheets, and Tableau to provide actionable insights aimed at enhancing profitability and operational efficiency.
 
+
+
 * [Tableau](https://public.tableau.com/views/UnicornPerformance_17264366963990/UnicornPerformaceMatrix?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * [presentation](https://docs.google.com/presentation/d/1JRWkx2KTinWwg7PV-V23WCsFHsymyf3dRrKuYLhYHjU/edit?usp=sharing) 
 * [Video Presentation](https://www.loom.com/share/2017b7336be0499e9ca999e98332cd87?sid=582ba937-7555-4748-9753-2fa8a3e56afa)
+  
+### Co-authors:
+* Rama alhomsi 
+* www.linkedin.com/in/leelareddy
+* Tsai-Shiou Hsieh
+* Akilan Sivanandham
